@@ -1,0 +1,21 @@
+{
+  "name": "@komagata/textarea-caret",
+  "version": "1.0.0",
+  "description": "Caret utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start --single-run"
+  },
+  "author": "Masaki Komagata",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.7.0",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "karma-webpack": "^2.0.4",
+    "webpack": "^3.5.4"
+  }
+}
